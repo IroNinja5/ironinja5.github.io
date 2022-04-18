@@ -1,0 +1,29 @@
+*{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    text-decoration: none;
+}
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+body {
+margin: 0;
+}
+main {
+    color: white;
+  z-index: 99;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  margin: 0px auto;
+}
+h1 {
+    font-size: 2cm;
+}
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
