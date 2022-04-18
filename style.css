@@ -10,6 +10,7 @@ canvas {
 }
 body {
 margin: 0;
+background-color: black;
 }
 main {
     color: white;
